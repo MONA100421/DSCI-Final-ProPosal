@@ -1,6 +1,18 @@
 # DSCI-Final-ProPosal: Restaurant Reviews Analysis in Los Angeles
 This project analyzes the impact of online reviews on restaurant foot traffic in Los Angeles, including takeout and delivery trends.
 
+## Team Members
+
+- **Chenyi Weng**
+  - **USC ID**: 3769237784
+  - **GitHub Username**: MONA100421
+  - **Email**: wengchen@usc.edu
+
+- **Zixi Wang**
+  - **USC ID**: 2854187591
+  - **GitHub Username**: lacunaxu
+  - **Email**: zwang049@usc.edu
+
 ## Installation
 - Clone the repository
 - Install dependencies using `pip install -r requirements.txt`
