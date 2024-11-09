@@ -1,4 +1,4 @@
-# DSCI-Final-ProPosal: Restaurant Reviews Analysis in Los Angeles
+# DSCI510-FinalProposal: Restaurant Reviews Analysis in Los Angeles
 This project analyzes the impact of online reviews on restaurant foot traffic in Los Angeles, including takeout and delivery trends.
 
 ## Team Members
